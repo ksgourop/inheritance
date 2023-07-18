@@ -1,4 +1,4 @@
-# inheritance moodle
+# Διδακτικό σενάριο - κληρονομικότητα 
 Για να δείτε το σενάριο ανεβάστε (import) στην πλατφόρμα moodle ή επισκεφτείτε τον παρακάτω σύνδεσμο:
 https://www.he.duth.gr/moodle/course/view.php?id=13
 
